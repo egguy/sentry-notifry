@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 
 tests_require = [
-        'nose==1.1.2',
+        'nose==1.3.7',
 ]
 
 install_requires = [
